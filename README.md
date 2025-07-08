@@ -87,3 +87,7 @@ For questions, improvements, or support, contact Emilio Funes.
    ```
 
 ---
+
+## GitHub Repo
+
+This script is maintained by Emilio Funes. For inquiries or collaboration, feel free to reach out via Upwork or GitHub Issues.
